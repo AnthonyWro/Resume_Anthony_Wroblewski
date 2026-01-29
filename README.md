@@ -12,6 +12,6 @@ This repository contains my academic curriculum vitae in PDF format.
 - Seeking a **12–15 week research internship** in quantum technologies (Summer2026)
 
 ## Contact
-- Email: anthonywroblewski@usherbrooke.ca
+- Email: anthony.wroblewski@usherbrooke.ca
 - LinkedIn: https://linkedin.com/in/anthony-wroblewski
 - GitHub: https://github.com/AnthonyWro
